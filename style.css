@@ -1,0 +1,32 @@
+/* variables */
+:root {}
+
+/* reset */
+body,
+p,
+a,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+    text-decoration: null;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+/* body styles*/
+body {
+    overflow-x: hidden;
+}
+
+/* fonts */
+
+/* mobile style */
+
+
+/* small tablets styles */
+
+/* monitors */
