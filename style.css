@@ -18,7 +18,7 @@
         --top-tile-pd: 6.15%;
 
         --top-banner-height: 100vw;
-        --top-banner-bg-url: url(./assets/top-section-mobile.jpg);
+        --top-banner-bg-url: url(./assets/top-section-mobile.webP);
 
 
         /* fonts */
@@ -306,7 +306,7 @@ main{
         --header-icon-height: 32px;
         --fs-80: 1.375rem;
         --top-banner-height: 35vw;
-        --top-banner-bg-url: url("./assets/top-section-bg-not-mobile.jpg")
+        --top-banner-bg-url: url("./assets/top-section-bg-not-mobile.webP")
     }
 
     .tile-quote-button {
